@@ -1,20 +1,7 @@
 <FlexQueryResponse queryName="Portfolio nav ,net stock ,trades" type="AF">
 <FlexStatements count="1">
-<FlexStatement fromDate="07/01/22" toDate="06/01/23" period="Last365CalendarDays" whenGenerated="08/01/23;173306">
+<FlexStatement fromDate="26/01/22" toDate="25/01/23" period="Last365CalendarDays" whenGenerated="26/01/23;072035">
 <EquitySummaryInBase>
-<EquitySummaryByReportDateInBase reportDate="06/01/22" cash="134.63756702" cashLong="134.63756702" cashShort="0" stock="429326.19" stockLong="429326.19" stockShort="0" commodities="0" commoditiesLong="0" commoditiesShort="0" total="429461.90756702" totalLong="439738.63556702" totalShort="-10276.728" />
-<EquitySummaryByReportDateInBase reportDate="07/01/22" cash="70.41529742" cashLong="70.41529742" cashShort="0" stock="446571.29" stockLong="446571.29" stockShort="0" commodities="0" commoditiesLong="0" commoditiesShort="0" total="446643.63529742" totalLong="456858.45529742" totalShort="-10214.82" />
-<EquitySummaryByReportDateInBase reportDate="10/01/22" cash="20070.41529742" cashLong="20070.41529742" cashShort="0" stock="441001.81" stockLong="441001.81" stockShort="0" commodities="0" commoditiesLong="0" commoditiesShort="0" total="461074.96529742" totalLong="471278.31689742" totalShort="-10203.3516" />
-<EquitySummaryByReportDateInBase reportDate="11/01/22" cash="30070.41529742" cashLong="30070.41529742" cashShort="0" stock="448214.87" stockLong="448214.87" stockShort="0" commodities="0" commoditiesLong="0" commoditiesShort="0" total="478288.02529742" totalLong="488730.68479742" totalShort="-10442.6595" />
-<EquitySummaryByReportDateInBase reportDate="12/01/22" cash="10.41206264" cashLong="10.41206264" cashShort="0" stock="499939.53" stockLong="499939.53" stockShort="0" commodities="0" commoditiesLong="0" commoditiesShort="0" total="499952.68206264" totalLong="509927.85006264" totalShort="-9975.168" />
-<EquitySummaryByReportDateInBase reportDate="13/01/22" cash="59.70780294" cashLong="59.70780294" cashShort="0" stock="508946.71" stockLong="508946.71" stockShort="0" commodities="0" commoditiesLong="0" commoditiesShort="0" total="509009.95780294" totalLong="519558.25020294" totalShort="-10548.2924" />
-<EquitySummaryByReportDateInBase reportDate="14/01/22" cash="43.70230294" cashLong="43.70230294" cashShort="0" stock="513367.4" stockLong="513367.4" stockShort="0" commodities="0" commoditiesLong="0" commoditiesShort="0" total="513414.64230294" totalLong="523028.56830294" totalShort="-9613.926" />
-<EquitySummaryByReportDateInBase reportDate="17/01/22" cash="30043.70230294" cashLong="30043.70230294" cashShort="0" stock="518383.13" stockLong="518383.13" stockShort="0" commodities="0" commoditiesLong="0" commoditiesShort="0" total="548430.37230294" totalLong="557960.21080294" totalShort="-9529.8385" />
-<EquitySummaryByReportDateInBase reportDate="18/01/22" cash="17.40410374" cashLong="17.40410374" cashShort="0" stock="552137.64" stockLong="552137.64" stockShort="0" commodities="0" commoditiesLong="0" commoditiesShort="0" total="552160.20410374" totalLong="561936.60390374" totalShort="-9776.3998" />
-<EquitySummaryByReportDateInBase reportDate="19/01/22" cash="20.01835714" cashLong="20.01835714" cashShort="0" stock="558064.24" stockLong="558064.24" stockShort="0" commodities="0" commoditiesLong="0" commoditiesShort="0" total="558089.41835714" totalLong="567567.80685714" totalShort="-9478.3885" />
-<EquitySummaryByReportDateInBase reportDate="20/01/22" cash="4034.72773604" cashLong="4034.72773604" cashShort="0" stock="569139.81" stockLong="569139.81" stockShort="0" commodities="0" commoditiesLong="0" commoditiesShort="0" total="573179.69773604" totalLong="582831.13693604" totalShort="-9651.4392" />
-<EquitySummaryByReportDateInBase reportDate="21/01/22" cash="6791.30773604" cashLong="6791.30773604" cashShort="0" stock="556352.47" stockLong="556352.47" stockShort="0" commodities="0" commoditiesLong="0" commoditiesShort="0" total="563149.88773604" totalLong="572997.41443604" totalShort="-9847.5267" />
-<EquitySummaryByReportDateInBase reportDate="24/01/22" cash="24.75887634" cashLong="24.75887634" cashShort="0" stock="542013.19" stockLong="542013.19" stockShort="0" commodities="0" commoditiesLong="0" commoditiesShort="0" total="542045.01887634" totalLong="550998.76367634" totalShort="-8953.7448" />
 <EquitySummaryByReportDateInBase reportDate="25/01/22" cash="24.75887634" cashLong="24.75887634" cashShort="0" stock="548940.31" stockLong="548940.31" stockShort="0" commodities="0" commoditiesLong="0" commoditiesShort="0" total="548972.13887634" totalLong="557735.04107634" totalShort="-8762.9022" />
 <EquitySummaryByReportDateInBase reportDate="26/01/22" cash="24.75887634" cashLong="24.75887634" cashShort="0" stock="560117.35" stockLong="560117.35" stockShort="0" commodities="0" commoditiesLong="0" commoditiesShort="0" total="560149.17887634" totalLong="568686.05767634" totalShort="-8536.8788" />
 <EquitySummaryByReportDateInBase reportDate="27/01/22" cash="24.75887634" cashLong="24.75887634" cashShort="0" stock="558710.42" stockLong="558710.42" stockShort="0" commodities="0" commoditiesLong="0" commoditiesShort="0" total="558743.10887634" totalLong="566687.19887634" totalShort="-7944.09" />
@@ -264,38 +251,50 @@
 <EquitySummaryByReportDateInBase reportDate="04/01/23" cash="150077.93390802" cashLong="150077.93390802" cashShort="0" stock="395395.51" stockLong="395395.51" stockShort="0" commodities="0" commoditiesLong="0" commoditiesShort="0" total="545489.11390802" totalLong="545489.11390802" totalShort="0" />
 <EquitySummaryByReportDateInBase reportDate="05/01/23" cash="150088.60390802" cashLong="150088.60390802" cashShort="0" stock="396240.94" stockLong="396240.94" stockShort="0" commodities="0" commoditiesLong="0" commoditiesShort="0" total="546337.99390802" totalLong="546337.99390802" totalShort="0" />
 <EquitySummaryByReportDateInBase reportDate="06/01/23" cash="150088.60390802" cashLong="150088.60390802" cashShort="0" stock="399418.73" stockLong="399418.73" stockShort="0" commodities="0" commoditiesLong="0" commoditiesShort="0" total="549522.60390802" totalLong="549522.60390802" totalShort="0" />
+<EquitySummaryByReportDateInBase reportDate="09/01/23" cash="150088.60390802" cashLong="150088.60390802" cashShort="0" stock="397803.24" stockLong="397803.24" stockShort="0" commodities="0" commoditiesLong="0" commoditiesShort="0" total="547922.62390802" totalLong="547922.62390802" totalShort="0" />
+<EquitySummaryByReportDateInBase reportDate="10/01/23" cash="150088.60390802" cashLong="150088.60390802" cashShort="0" stock="395085.77" stockLong="395085.77" stockShort="0" commodities="0" commoditiesLong="0" commoditiesShort="0" total="545210.33390802" totalLong="545210.33390802" totalShort="0" />
+<EquitySummaryByReportDateInBase reportDate="11/01/23" cash="162110.95052882" cashLong="162110.95052882" cashShort="0" stock="385855.51" stockLong="385855.51" stockShort="0" commodities="0" commoditiesLong="0" commoditiesShort="0" total="548007.75052882" totalLong="548007.75052882" totalShort="0" />
+<EquitySummaryByReportDateInBase reportDate="12/01/23" cash="162110.95052882" cashLong="162110.95052882" cashShort="0" stock="388248.98" stockLong="388248.98" stockShort="0" commodities="0" commoditiesLong="0" commoditiesShort="0" total="550406.45052882" totalLong="550406.45052882" totalShort="0" />
+<EquitySummaryByReportDateInBase reportDate="13/01/23" cash="162110.95052882" cashLong="162110.95052882" cashShort="0" stock="389086.05" stockLong="389086.05" stockShort="0" commodities="0" commoditiesLong="0" commoditiesShort="0" total="551248.88052882" totalLong="551248.88052882" totalShort="0" />
+<EquitySummaryByReportDateInBase reportDate="16/01/23" cash="162110.95052882" cashLong="162110.95052882" cashShort="0" stock="388984.02" stockLong="388984.02" stockShort="0" commodities="0" commoditiesLong="0" commoditiesShort="0" total="551146.85052882" totalLong="551146.85052882" totalShort="0" />
+<EquitySummaryByReportDateInBase reportDate="17/01/23" cash="168987.24660882" cashLong="168987.24660882" cashShort="0" stock="384313" stockLong="384313" stockShort="0" commodities="0" commoditiesLong="0" commoditiesShort="0" total="553375.84660882" totalLong="553375.84660882" totalShort="0" />
+<EquitySummaryByReportDateInBase reportDate="18/01/23" cash="207743.77953062" cashLong="207743.77953062" cashShort="0" stock="345224.39" stockLong="345224.39" stockShort="0" commodities="0" commoditiesLong="0" commoditiesShort="0" total="553049.52953062" totalLong="553049.52953062" totalShort="0" />
+<EquitySummaryByReportDateInBase reportDate="19/01/23" cash="207743.77953062" cashLong="207743.77953062" cashShort="0" stock="340991.54" stockLong="340991.54" stockShort="0" commodities="0" commoditiesLong="0" commoditiesShort="0" total="548822.53953062" totalLong="548822.53953062" totalShort="0" />
+<EquitySummaryByReportDateInBase reportDate="20/01/23" cash="207743.77953062" cashLong="207743.77953062" cashShort="0" stock="342965.53" stockLong="342965.53" stockShort="0" commodities="0" commoditiesLong="0" commoditiesShort="0" total="550802.72953062" totalLong="550802.72953062" totalShort="0" />
+<EquitySummaryByReportDateInBase reportDate="23/01/23" cash="207743.77953062" cashLong="207743.77953062" cashShort="0" stock="344414.7" stockLong="344414.7" stockShort="0" commodities="0" commoditiesLong="0" commoditiesShort="0" total="552275.17953062" totalLong="552275.17953062" totalShort="0" />
+<EquitySummaryByReportDateInBase reportDate="24/01/23" cash="207743.77953062" cashLong="207743.77953062" cashShort="0" stock="343080.74" stockLong="343080.74" stockShort="0" commodities="0" commoditiesLong="0" commoditiesShort="0" total="550948.87953062" totalLong="550948.87953062" totalShort="0" />
+<EquitySummaryByReportDateInBase reportDate="25/01/23" cash="207743.77953062" cashLong="207743.77953062" cashShort="0" stock="341463.56" stockLong="341463.56" stockShort="0" commodities="0" commoditiesLong="0" commoditiesShort="0" total="549339.32953062" totalLong="549339.32953062" totalShort="0" />
 </EquitySummaryInBase>
-<FIFOPerformanceSummaryInBase><FIFOPerformanceSummaryUnderlying symbol="ETLF" totalUnrealizedPnl="10126.125267" />
+<FIFOPerformanceSummaryInBase><FIFOPerformanceSummaryUnderlying symbol="ETLF" totalUnrealizedPnl="7303.968598" />
 <FIFOPerformanceSummaryUnderlying symbol="IEMA" totalUnrealizedPnl="0" />
 <FIFOPerformanceSummaryUnderlying symbol="IUSN" totalUnrealizedPnl="0" />
-<FIFOPerformanceSummaryUnderlying symbol="OM3G" totalUnrealizedPnl="1193.16" />
-<FIFOPerformanceSummaryUnderlying symbol="RENW" totalUnrealizedPnl="-4591.376537" />
+<FIFOPerformanceSummaryUnderlying symbol="OM3G" totalUnrealizedPnl="-1808.33" />
+<FIFOPerformanceSummaryUnderlying symbol="RENW" totalUnrealizedPnl="-2807.906537" />
 <FIFOPerformanceSummaryUnderlying symbol="SMH" totalUnrealizedPnl="0" />
 <FIFOPerformanceSummaryUnderlying symbol="UNIC" totalUnrealizedPnl="0" />
 <FIFOPerformanceSummaryUnderlying symbol="V3GF" totalUnrealizedPnl="0" />
 <FIFOPerformanceSummaryUnderlying symbol="VJPE" totalUnrealizedPnl="0" />
-<FIFOPerformanceSummaryUnderlying symbol="XDEV" totalUnrealizedPnl="-2153.712323" />
-<FIFOPerformanceSummaryUnderlying symbol="XDW0" totalUnrealizedPnl="13972.902369" />
+<FIFOPerformanceSummaryUnderlying symbol="XDEV" totalUnrealizedPnl="-1193.467328" />
+<FIFOPerformanceSummaryUnderlying symbol="XDW0" totalUnrealizedPnl="13522.342368" />
 <FIFOPerformanceSummaryUnderlying symbol="XDWC" totalUnrealizedPnl="0" />
-<FIFOPerformanceSummaryUnderlying symbol="XDWF" totalUnrealizedPnl="-1921.603496" />
-<FIFOPerformanceSummaryUnderlying symbol="XDWH" totalUnrealizedPnl="246.83025" />
+<FIFOPerformanceSummaryUnderlying symbol="XDWF" totalUnrealizedPnl="-1000.621136" />
+<FIFOPerformanceSummaryUnderlying symbol="XDWH" totalUnrealizedPnl="91.83025" />
 <FIFOPerformanceSummaryUnderlying symbol="ZPRX" totalUnrealizedPnl="0" />
-<FIFOPerformanceSummaryUnderlying symbol="" totalUnrealizedPnl="16872.32553" />
+<FIFOPerformanceSummaryUnderlying symbol="" totalUnrealizedPnl="14107.816215" />
 </FIFOPerformanceSummaryInBase><NetStockPositionSummary>
-<NetStockPosition symbol="ETLF" isin="IE00BF0BCP69" listingExchange="IBIS2" netShares="5974" />
+<NetStockPosition symbol="ETLF" isin="IE00BF0BCP69" listingExchange="IBIS2" netShares="4093" />
 <NetStockPosition symbol="OM3G" isin="IE00BGCSB447" listingExchange="GETTEX2" netShares="17973" />
 <NetStockPosition symbol="RENW" isin="IE00BK5BCH80" listingExchange="BVME.ETF" netShares="4573" />
-<NetStockPosition symbol="XDEV" isin="IE00BL25JM42" listingExchange="IBIS2" netShares="1635" />
+<NetStockPosition symbol="XDEV" isin="IE00BL25JM42" listingExchange="IBIS2" netShares="1035" />
 <NetStockPosition symbol="XDW0" isin="IE00BM67HM91" listingExchange="IBIS2" netShares="1839" />
-<NetStockPosition symbol="XDWF" isin="IE00BM67HL84" listingExchange="IBIS2" netShares="1834" />
+<NetStockPosition symbol="XDWF" isin="IE00BM67HL84" listingExchange="IBIS2" netShares="1297" />
 <NetStockPosition symbol="XDWH" isin="IE00BM67HK77" listingExchange="IBIS2" netShares="100" />
 </NetStockPositionSummary><Trades>
-<Trade symbol="ETLF" tradeDate="07/01/22" quantity="846" buySell="BUY" />
-<Trade symbol="ETLF" tradeDate="07/01/22" quantity="99" buySell="BUY" />
-<Trade symbol="ETLF" tradeDate="12/01/22" quantity="411" buySell="BUY" />
-<Trade symbol="ETLF" tradeDate="12/01/22" quantity="3987" buySell="BUY" />
-<Trade symbol="ETLF" tradeDate="13/01/22" quantity="470" buySell="BUY" />
-<Trade symbol="ETLF" tradeDate="13/01/22" quantity="161" buySell="BUY" />
+<Trade symbol="ETLF" tradeDate="18/01/23" quantity="-1881" buySell="SELL" />
+<Lot symbol="ETLF" tradeDate="18/01/23" quantity="846" buySell="SELL" />
+<Lot symbol="ETLF" tradeDate="18/01/23" quantity="99" buySell="SELL" />
+<Lot symbol="ETLF" tradeDate="18/01/23" quantity="411" buySell="SELL" />
+<Lot symbol="ETLF" tradeDate="18/01/23" quantity="525" buySell="SELL" />
 <Trade symbol="IEMA" tradeDate="27/12/22" quantity="-273" buySell="SELL" />
 <Lot symbol="IEMA" tradeDate="27/12/22" quantity="68" buySell="SELL" />
 <Lot symbol="IEMA" tradeDate="27/12/22" quantity="205" buySell="SELL" />
@@ -342,24 +341,22 @@
 <Lot symbol="XDEV" tradeDate="27/12/22" quantity="174" buySell="SELL" />
 <Lot symbol="XDEV" tradeDate="27/12/22" quantity="344" buySell="SELL" />
 <Lot symbol="XDEV" tradeDate="27/12/22" quantity="30" buySell="SELL" />
+<Trade symbol="XDEV" tradeDate="17/01/23" quantity="-200" buySell="SELL" />
+<Lot symbol="XDEV" tradeDate="17/01/23" quantity="200" buySell="SELL" />
+<Trade symbol="XDEV" tradeDate="18/01/23" quantity="-400" buySell="SELL" />
+<Lot symbol="XDEV" tradeDate="18/01/23" quantity="400" buySell="SELL" />
 <Trade symbol="XDW0" tradeDate="04/01/23" quantity="1075" buySell="BUY" />
-<Trade symbol="XDWC" tradeDate="07/01/22" quantity="100" buySell="BUY" />
-<Trade symbol="XDWC" tradeDate="24/01/22" quantity="143" buySell="BUY" />
 <Trade symbol="XDWC" tradeDate="27/12/22" quantity="-243" buySell="SELL" />
 <Lot symbol="XDWC" tradeDate="27/12/22" quantity="100" buySell="SELL" />
 <Lot symbol="XDWC" tradeDate="27/12/22" quantity="143" buySell="SELL" />
-<Trade symbol="XDWF" tradeDate="13/01/22" quantity="117" buySell="BUY" />
-<Trade symbol="XDWF" tradeDate="14/01/22" quantity="426" buySell="BUY" />
-<Trade symbol="XDWF" tradeDate="18/01/22" quantity="1265" buySell="BUY" />
-<Trade symbol="XDWF" tradeDate="18/01/22" quantity="431" buySell="BUY" />
-<Trade symbol="XDWF" tradeDate="19/01/22" quantity="428" buySell="BUY" />
-<Trade symbol="XDWF" tradeDate="20/01/22" quantity="109" buySell="BUY" />
-<Trade symbol="XDWF" tradeDate="20/01/22" quantity="150" buySell="BUY" />
 <Trade symbol="XDWF" tradeDate="27/12/22" quantity="-1092" buySell="SELL" />
 <Lot symbol="XDWF" tradeDate="27/12/22" quantity="117" buySell="SELL" />
 <Lot symbol="XDWF" tradeDate="27/12/22" quantity="426" buySell="SELL" />
 <Lot symbol="XDWF" tradeDate="27/12/22" quantity="549" buySell="SELL" />
-<Trade symbol="XDWH" tradeDate="07/01/22" quantity="100" buySell="BUY" />
+<Trade symbol="XDWF" tradeDate="11/01/23" quantity="-200" buySell="SELL" />
+<Lot symbol="XDWF" tradeDate="11/01/23" quantity="200" buySell="SELL" />
+<Trade symbol="XDWF" tradeDate="11/01/23" quantity="-337" buySell="SELL" />
+<Lot symbol="XDWF" tradeDate="11/01/23" quantity="337" buySell="SELL" />
 <Trade symbol="ZPRX" tradeDate="27/12/22" quantity="-466" buySell="SELL" />
 <Lot symbol="ZPRX" tradeDate="27/12/22" quantity="466" buySell="SELL" />
 </Trades>
